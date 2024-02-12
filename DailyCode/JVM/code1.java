@@ -1,6 +1,6 @@
-package DailyCodes;
+package DailyCode.JVM;
 
-public class code2 {
+public class code1 {
     public static void main(String[] args) {
         System.out.println("hello");
     }
