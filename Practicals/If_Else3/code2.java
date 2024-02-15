@@ -6,6 +6,7 @@ public class code2 {
      if(true)
      {
          System.out.println(--num  + --num + --num + --num);
+         System.out.println(89+88+87+86);
 
      }
         System.out.println(num);

@@ -1,4 +1,12 @@
-package Practicals.PracticeSession2;
+class C2W_CharDemo{
+	public static void main(String[] args)
+	{
+		char ch;
+		ch=65;
+		System.out.println("char="+ch);
 
-public class code1 {
+                System.out.println("char="+ch+1);
+		
+	}
 }
+

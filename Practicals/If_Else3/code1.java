@@ -2,7 +2,7 @@ package Practicals.If_Else3;
 
 public class code1 {
     public static void main(String[] args) {
-        int num=10;
+        int num=0;
         if(true)
         {
             System.out.println(num++ + ++num + ++num + ++num);
